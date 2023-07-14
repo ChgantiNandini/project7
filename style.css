@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+body{
+    font-family: 'Lilita One', cursive;
+    background-color:rgb(255, 117, 4);
+    padding: 100px;
+    
+}
+.team{
+    width: 400px;
+    height: 250px;
+    background-color: #d998ff;
+    color: black;
+    padding: 10px;
+    margin-right: 20px;
+    float:left;
+    font-size: 20px;
+    justify-content: center;
+}
+
+button{
+    width: 500px;
+    font-size: 40px;
+    background-color: rgb(42, 147, 165);
+    color: black;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+.winner{
+    background-color: rgb(19, 206, 28);
+    color: white;
+}
